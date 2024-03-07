@@ -16,6 +16,7 @@
     
 - 📫 How to reach me
   - Email: [ja250373@ucf.edu](mailto:ja250373@ucf.edu)
+  - [LinkedIn](https://www.linkedin.com/in/jacob-lingo/)
 
 <!---
 Jacob-Lingo/Jacob-Lingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
