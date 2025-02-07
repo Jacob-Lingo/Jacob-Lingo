@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Jacob
 
 - ⚡ I’m currently working
-  - [@UCF](https://github.com/UCF) as an Undergraduate Reasearcher in Hardware Security
+  - [@UCF](https://github.com/UCF) as a Reasearcher in Hardware Security
     
 - 🔨 My past work experience includes
   - [@TexasInstruments](https://github.com/TexasInstruments) as a Product Engineering Intern
